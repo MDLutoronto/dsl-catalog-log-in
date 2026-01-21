@@ -1,7 +1,10 @@
 ---
 title: "Logging into Digital Scholar Lab through the Catalog"
 layout: "home"
-description: ""
+description: "This short guide provides instructions on how to log into the Gale Digital Scholar Lab via the University of Toronto institutional access."
+staff:
+    - name: Leslie Barnes
+      link: https://library.utoronto.ca/staff/leslie-barnes
 permalink: "/"  #! Remove this if not the homepage
 ---
 
