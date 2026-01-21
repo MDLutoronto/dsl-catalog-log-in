@@ -34,7 +34,7 @@ This short guide provides instructions on how to log into the [Gale Digital Scho
     If this is acceptable to you,**click on Log In / Create Account,** 
         <img src='{{ '/assets/images/DSL_Access_005.1.jpg' | relative_url }}' alt='Gale Digital Scholar Lab main page with “Log In / Create Account” highlighted.' title='' width='800' height='' />
 
- **Choose Google, and then log in with a Google account.** 
+    **Choose Google, and then log in with a Google account.** 
         <img src='{{ '/assets/images/DSL_Access_005.2.png' | relative_url }}' alt='Log In / Create Account with the option to sign in with a google account highlighted.' title='' width='800' height='' />
 
     If you already have an account set up, when you log in a pop\-up window will appear to ask you to choose or create a new workspace. Click on the one created by default, labeled **'Personal'**.  
