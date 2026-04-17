@@ -75,3 +75,4 @@ This short guide provides instructions on how to log into the [Gale Digital Scho
 
 [Return to the main DSL tutorial](https://mdl.library.utoronto.ca/technology/tutorials/digital-humanities-tools-digital-scholar-lab)
 
+Tools: [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
